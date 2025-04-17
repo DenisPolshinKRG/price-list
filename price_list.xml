@@ -8549,7 +8549,7 @@
       <discount_price>3000</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock/>
+      <stock>555</stock>
     </offer>
   </offers>
 </price_list>
