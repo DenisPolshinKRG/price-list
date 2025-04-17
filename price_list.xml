@@ -5,11 +5,11 @@
       <article>2000830708259</article>
       <name>Настольная вытяжка для маникюра Bless 80W</name>
       <barcode/>
-      <price>35000</price>
+      <price>41000</price>
       <discount_price>20500</discount_price>
       <discount_start_date>2024-10-31 17:00:00</discount_start_date>
       <discount_end_date>2024-11-30 23:00:00</discount_end_date>
-      <stock>16</stock>
+      <stock>10</stock>
     </offer>
     <offer>
       <article>2000830708266</article>
@@ -9469,7 +9469,7 @@
       <discount_price>7500</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>4</stock>
+      <stock>0</stock>
     </offer>
     <offer>
       <article>2000000026466</article>
@@ -9489,7 +9489,7 @@
       <discount_price>8900</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>22</stock>
+      <stock>2</stock>
     </offer>
     <offer>
       <article>2000000015088</article>
@@ -9499,16 +9499,6 @@
       <discount_price>0</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>444</stock>
-    </offer>
-    <offer>
-      <article/>
-      <name/>
-      <barcode/>
-      <price>0</price>
-      <discount_price>0</discount_price>
-      <discount_start_date/>
-      <discount_end_date/>
       <stock/>
     </offer>
     <offer>
@@ -9519,47 +9509,7 @@
       <discount_price>0</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock/>
-    </offer>
-    <offer>
-      <article/>
-      <name/>
-      <barcode/>
-      <price>0</price>
-      <discount_price>0</discount_price>
-      <discount_start_date/>
-      <discount_end_date/>
-      <stock/>
-    </offer>
-    <offer>
-      <article/>
-      <name/>
-      <barcode/>
-      <price>0</price>
-      <discount_price>0</discount_price>
-      <discount_start_date/>
-      <discount_end_date/>
-      <stock/>
-    </offer>
-    <offer>
-      <article/>
-      <name/>
-      <barcode/>
-      <price>0</price>
-      <discount_price>0</discount_price>
-      <discount_start_date/>
-      <discount_end_date/>
-      <stock/>
-    </offer>
-    <offer>
-      <article/>
-      <name/>
-      <barcode/>
-      <price>0</price>
-      <discount_price>0</discount_price>
-      <discount_start_date/>
-      <discount_end_date/>
-      <stock/>
+      <stock>5918</stock>
     </offer>
   </offers>
 </price_list>
