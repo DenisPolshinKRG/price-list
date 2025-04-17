@@ -8545,11 +8545,11 @@
     <offer>
       <article>2000000015088</article>
       <barcode/>
-      <price>5000</price>
-      <discount_price>3000</discount_price>
+      <price>0</price>
+      <discount_price>0</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>544</stock>
+      <stock>444</stock>
     </offer>
   </offers>
 </price_list>
