@@ -9501,15 +9501,5 @@
       <discount_end_date/>
       <stock/>
     </offer>
-    <offer>
-      <article/>
-      <name/>
-      <barcode/>
-      <price>0</price>
-      <discount_price>0</discount_price>
-      <discount_start_date/>
-      <discount_end_date/>
-      <stock>5918</stock>
-    </offer>
   </offers>
 </price_list>
