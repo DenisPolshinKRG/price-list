@@ -9479,7 +9479,7 @@
       <discount_price>8900</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>2</stock>
+      <stock>3</stock>
     </offer>
     <offer>
       <article>2000000025452</article>
@@ -9502,14 +9502,14 @@
       <stock>0</stock>
     </offer>
     <offer>
-      <article>test1</article>
-      <name>testim</name>
+      <article>test3</article>
+      <name>testim 2</name>
       <barcode/>
-      <price>2</price>
+      <price>5</price>
       <discount_price>0</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>2</stock>
+      <stock>5</stock>
     </offer>
   </offers>
 </price_list>
