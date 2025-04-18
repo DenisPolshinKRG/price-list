@@ -9479,7 +9479,7 @@
       <discount_price>8900</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>5</stock>
+      <stock>2</stock>
     </offer>
     <offer>
       <article>2000000025452</article>
@@ -9499,7 +9499,7 @@
       <discount_price>0</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock/>
+      <stock>0</stock>
     </offer>
   </offers>
 </price_list>
