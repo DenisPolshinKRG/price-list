@@ -10437,7 +10437,7 @@
       <discount_price>8900</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>1</stock>
+      <stock>0</stock>
       <vendor_code>Бутылка для воды SINAI с капсулами вкуса черная</vendor_code>
     </offer>
     <offer>
@@ -10445,10 +10445,10 @@
       <name>test</name>
       <barcode/>
       <price>10000</price>
-      <discount_price>0</discount_price>
+      <discount_price>8901</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>3</stock>
+      <stock>2</stock>
       <vendor_code>test</vendor_code>
     </offer>
   </offers>
