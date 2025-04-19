@@ -10427,6 +10427,7 @@
       <discount_start_date/>
       <discount_end_date/>
       <stock>3</stock>
+      <vendor_code>Стартовый набор для маникюра</vendor_code>
     </offer>
     <offer>
       <article>2000000025452</article>
@@ -10437,26 +10438,18 @@
       <discount_start_date/>
       <discount_end_date/>
       <stock>0</stock>
+      <vendor_code>Бутылка для воды SINAI с капсулами вкуса черная</vendor_code>
     </offer>
     <offer>
       <article>2000000015088</article>
-      <name/>
+      <name>test</name>
       <barcode/>
-      <price>0</price>
+      <price>10000</price>
       <discount_price>0</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>0</stock>
-    </offer>
-    <offer>
-      <article>test3</article>
-      <name>testim 2</name>
-      <barcode/>
-      <price>5</price>
-      <discount_price>0</discount_price>
-      <discount_start_date/>
-      <discount_end_date/>
-      <stock>6</stock>
+      <stock>2</stock>
+      <vendor_code>test</vendor_code>
     </offer>
   </offers>
 </price_list>
