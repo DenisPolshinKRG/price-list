@@ -31,7 +31,7 @@
       <discount_price>5100</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>4</stock>
+      <stock>6</stock>
       <vendor_code>монарда 50мл</vendor_code>
     </offer>
     <offer>
@@ -42,7 +42,7 @@
       <discount_price>2295</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>200</stock>
+      <stock>201</stock>
       <vendor_code>фартук черный</vendor_code>
     </offer>
     <offer>
@@ -10450,6 +10450,16 @@
       <discount_end_date/>
       <stock>2</stock>
       <vendor_code>test</vendor_code>
+    </offer>
+    <offer>
+      <article>567658888888</article>
+      <name>гуаш</name>
+      <barcode/>
+      <price>5000</price>
+      <discount_price>0</discount_price>
+      <discount_start_date/>
+      <discount_end_date/>
+      <stock>5</stock>
     </offer>
   </offers>
 </price_list>
