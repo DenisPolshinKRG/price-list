@@ -10444,7 +10444,7 @@
       <article>2000000015088</article>
       <name>test</name>
       <barcode/>
-      <price>10000</price>
+      <price>11000</price>
       <discount_price>8901</discount_price>
       <discount_start_date/>
       <discount_end_date/>
@@ -10455,7 +10455,7 @@
       <article>567658888888</article>
       <name>гуаш</name>
       <barcode/>
-      <price>5000</price>
+      <price>4500</price>
       <discount_price>0</discount_price>
       <discount_start_date/>
       <discount_end_date/>
