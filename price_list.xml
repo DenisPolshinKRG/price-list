@@ -9,7 +9,7 @@
       <discount_price>20500</discount_price>
       <discount_start_date>2024-10-31 17:00:00</discount_start_date>
       <discount_end_date>2024-11-30 23:00:00</discount_end_date>
-      <stock>15</stock>
+      <stock>12</stock>
     </offer>
     <offer>
       <article>2000830708266</article>
@@ -153,7 +153,7 @@
     </offer>
     <offer>
       <article>2000000004006</article>
-      <name>Умный блокнот ,серый</name>
+      <name>Умный блокнот ,серый </name>
       <barcode/>
       <price>30000</price>
       <discount_price>15000</discount_price>
@@ -173,7 +173,7 @@
     </offer>
     <offer>
       <article>2000000005973</article>
-      <name>Увлажнитель воздуха HUMIDIFIER белый</name>
+      <name>Увлажнитель воздуха HUMIDIFIER белый </name>
       <barcode/>
       <price>6000</price>
       <discount_price>3000</discount_price>
@@ -193,7 +193,7 @@
     </offer>
     <offer>
       <article>2000000004181</article>
-      <name>Увлажнитель воздуха с эффектом пламени  белый</name>
+      <name>Увлажнитель воздуха с эффектом пламени  белый </name>
       <barcode/>
       <price>14200</price>
       <discount_price>7100</discount_price>
@@ -233,7 +233,7 @@
     </offer>
     <offer>
       <article>2000000023113</article>
-      <name>Терка овощерезка многофункциональная</name>
+      <name>Терка овощерезка многофункциональная </name>
       <barcode/>
       <price>11400</price>
       <discount_price>5700</discount_price>
@@ -833,7 +833,7 @@
     </offer>
     <offer>
       <article>2000000004846</article>
-      <name>Массажная расческа зеленая 23.2x8.3x2 см</name>
+      <name>Массажная расческа зеленая 23.2x8.3x2 см  </name>
       <barcode/>
       <price>2400</price>
       <discount_price>1200</discount_price>
@@ -883,7 +883,7 @@
     </offer>
     <offer>
       <article>2000000004938</article>
-      <name>Массажная расческа черная 23.2x8.3x2 см</name>
+      <name>Массажная расческа черная 23.2x8.3x2 см </name>
       <barcode/>
       <price>2400</price>
       <discount_price>1200</discount_price>
@@ -893,7 +893,7 @@
     </offer>
     <offer>
       <article>2000000004792</article>
-      <name>Рюкзак универсальный розовый для мальчика и девочки</name>
+      <name>Рюкзак универсальный розовый для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -903,7 +903,7 @@
     </offer>
     <offer>
       <article>2000000004945</article>
-      <name>Рюкзак однотонный черный для мальчика и девочки</name>
+      <name>Рюкзак однотонный черный для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -913,7 +913,7 @@
     </offer>
     <offer>
       <article>2000000004969</article>
-      <name>Рюкзак 4 в 1 сиреневый для мальчика и девочки</name>
+      <name>Рюкзак 4 в 1 сиреневый для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -923,7 +923,7 @@
     </offer>
     <offer>
       <article>2000000004976</article>
-      <name>Рюкзак Дино для мальчика и девочки</name>
+      <name>Рюкзак Дино для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -933,7 +933,7 @@
     </offer>
     <offer>
       <article>2000000004983</article>
-      <name>Рюкзак маска для мальчика и девочки</name>
+      <name>Рюкзак маска для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -943,7 +943,7 @@
     </offer>
     <offer>
       <article>2000000004990</article>
-      <name>Рюкзак с коричневой вставкой серый для мальчика и девочки</name>
+      <name> Рюкзак с коричневой вставкой серый для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -953,7 +953,7 @@
     </offer>
     <offer>
       <article>2000000005003</article>
-      <name>Рюкзак с коричневой вставкой синий для мальчика и девочки</name>
+      <name> Рюкзак с коричневой вставкой синий для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -963,7 +963,7 @@
     </offer>
     <offer>
       <article>2000000005010</article>
-      <name>Рюкзак с коричневой вставкой черный для мальчика и девочки</name>
+      <name> Рюкзак с коричневой вставкой черный для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -973,17 +973,17 @@
     </offer>
     <offer>
       <article>2000000005027</article>
-      <name>Рюкзак серо-белый  для мальчика и девочки</name>
+      <name>Рюкзак серо-белый  для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>3</stock>
+      <stock>4</stock>
     </offer>
     <offer>
       <article>2000000005034</article>
-      <name>Рюкзак универсальный серый для мальчика и девочки</name>
+      <name>Рюкзак универсальный серый для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -993,7 +993,7 @@
     </offer>
     <offer>
       <article>2000000005041</article>
-      <name>Рюкзак универсальный бежевый для мальчика и девочки</name>
+      <name>Рюкзак универсальный бежевый для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1003,7 +1003,7 @@
     </offer>
     <offer>
       <article>2000000005058</article>
-      <name>Рюкзак черно-белый для мальчика и девочки</name>
+      <name>Рюкзак черно-белый для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1013,7 +1013,7 @@
     </offer>
     <offer>
       <article>2000000005065</article>
-      <name>Рюкзак черно-голубой для мальчика и девочки</name>
+      <name>Рюкзак черно-голубой для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1023,7 +1023,7 @@
     </offer>
     <offer>
       <article>2000000005072</article>
-      <name>Рюкзак черно-зеленый для мальчика и девочки</name>
+      <name>Рюкзак черно-зеленый для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1033,7 +1033,7 @@
     </offer>
     <offer>
       <article>2000000005089</article>
-      <name>Рюкзак черный для мальчика и девочки</name>
+      <name>Рюкзак черный для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1043,7 +1043,7 @@
     </offer>
     <offer>
       <article>2000000005096</article>
-      <name>Рюкзак Черный прозрачный  для мальчика и девочки</name>
+      <name>Рюкзак Черный прозрачный  для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1053,7 +1053,7 @@
     </offer>
     <offer>
       <article>2000000005102</article>
-      <name>Рюкзак Черный с граффити для мальчика и девочки</name>
+      <name>Рюкзак Черный с граффити для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1063,7 +1063,7 @@
     </offer>
     <offer>
       <article>2000000005119</article>
-      <name>Рюкзак Бирюзовый для мальчика и девочки</name>
+      <name>Рюкзак Бирюзовый для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1073,7 +1073,7 @@
     </offer>
     <offer>
       <article>2000000005126</article>
-      <name>Рюкзак зайка для мальчика и девочки</name>
+      <name>Рюкзак зайка для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1083,7 +1083,7 @@
     </offer>
     <offer>
       <article>2000000005133</article>
-      <name>Рюкзак Изумрудный для мальчика и девочки</name>
+      <name>Рюкзак Изумрудный для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1093,7 +1093,7 @@
     </offer>
     <offer>
       <article>2000000005140</article>
-      <name>Рюкзак Мордочка синий для мальчика и девочки</name>
+      <name>Рюкзак Мордочка синий для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1103,7 +1103,7 @@
     </offer>
     <offer>
       <article>2000000005157</article>
-      <name>Рюкзак Мордочка фиолетовая для мальчика и девочки</name>
+      <name>Рюкзак Мордочка фиолетовая для мальчика и девочки </name>
       <barcode/>
       <price>10200</price>
       <discount_price>5100</discount_price>
@@ -1193,7 +1193,7 @@
     </offer>
     <offer>
       <article>2000000005249</article>
-      <name>Костюм медицинский  серый M</name>
+      <name>Костюм медицинский  серый M </name>
       <barcode/>
       <price>12800</price>
       <discount_price>6400</discount_price>
@@ -1483,7 +1483,7 @@
     </offer>
     <offer>
       <article>2000000005614</article>
-      <name>Швабра-Веник силиконовая</name>
+      <name>Швабра-Веник силиконовая </name>
       <barcode/>
       <price>1900</price>
       <discount_price>950</discount_price>
@@ -1543,7 +1543,7 @@
     </offer>
     <offer>
       <article>2000000005676</article>
-      <name>Надувная бархатная подушка для шеи Бирюзовая</name>
+      <name>Надувная бархатная подушка для шеи Бирюзовая </name>
       <barcode/>
       <price>3400</price>
       <discount_price>1700</discount_price>
@@ -1613,7 +1613,7 @@
     </offer>
     <offer>
       <article>2000000005744</article>
-      <name>Подушка ортопедическая для путешествий на шею синяя</name>
+      <name>Подушка ортопедическая для путешествий на шею синяя </name>
       <barcode/>
       <price>9200</price>
       <discount_price>4600</discount_price>
@@ -2023,7 +2023,7 @@
     </offer>
     <offer>
       <article>2000000023410</article>
-      <name>Кусачки для маникюра D07-14</name>
+      <name>Кусачки для маникюра D07-14 </name>
       <barcode/>
       <price>6800</price>
       <discount_price>3400</discount_price>
@@ -2803,7 +2803,7 @@
     </offer>
     <offer>
       <article>4627161241156</article>
-      <name>Подсветка для смартфона на батарейках</name>
+      <name>Подсветка для смартфона на батарейках </name>
       <barcode/>
       <price>2100</price>
       <discount_price>1050</discount_price>
@@ -2923,7 +2923,7 @@
     </offer>
     <offer>
       <article>4627161241279</article>
-      <name>Губка для мытья</name>
+      <name>Губка для мытья </name>
       <barcode/>
       <price>520</price>
       <discount_price>260</discount_price>
@@ -2993,7 +2993,7 @@
     </offer>
     <offer>
       <article>4627161241361</article>
-      <name>Органайзер для губки</name>
+      <name>Органайзер для губки </name>
       <barcode/>
       <price>1300</price>
       <discount_price>650</discount_price>
@@ -3223,7 +3223,7 @@
     </offer>
     <offer>
       <article>4627161241781</article>
-      <name>Маникюрный набор с инструментами</name>
+      <name>Маникюрный набор с инструментами </name>
       <barcode/>
       <price>2600</price>
       <discount_price>1300</discount_price>
@@ -3643,7 +3643,7 @@
     </offer>
     <offer>
       <article>2000830704213</article>
-      <name>Сумка мини</name>
+      <name>Сумка мини </name>
       <barcode/>
       <price>15000</price>
       <discount_price>7500</discount_price>
@@ -3663,7 +3663,7 @@
     </offer>
     <offer>
       <article>2000830703247</article>
-      <name>Сумка для пикника желтая</name>
+      <name>Сумка для пикника желтая </name>
       <barcode/>
       <price>7800</price>
       <discount_price>3900</discount_price>
@@ -4193,7 +4193,7 @@
     </offer>
     <offer>
       <article>2000830708976</article>
-      <name>Ситечко для заваривания чая и молотого кофе</name>
+      <name>Ситечко для заваривания чая и молотого кофе </name>
       <barcode/>
       <price>2400</price>
       <discount_price>1200</discount_price>
@@ -4403,7 +4403,7 @@
     </offer>
     <offer>
       <article>2000830708433</article>
-      <name>Сумка кросс-боди экокожа бежевый</name>
+      <name>Сумка кросс-боди экокожа бежевый </name>
       <barcode/>
       <price>12800</price>
       <discount_price>6400</discount_price>
@@ -4623,7 +4623,7 @@
     </offer>
     <offer>
       <article>4627154362165</article>
-      <name>Рюкзак желтый</name>
+      <name> Рюкзак желтый </name>
       <barcode/>
       <price>12000</price>
       <discount_price>6000</discount_price>
@@ -4793,7 +4793,7 @@
     </offer>
     <offer>
       <article>4627177380214</article>
-      <name>Миска-дуршлаг</name>
+      <name>Миска-дуршлаг </name>
       <barcode/>
       <price>2600</price>
       <discount_price>1300</discount_price>
@@ -5043,7 +5043,7 @@
     </offer>
     <offer>
       <article>4627137583044</article>
-      <name>Запайщик пакетов</name>
+      <name>Запайщик пакетов </name>
       <barcode/>
       <price>1300</price>
       <discount_price>650</discount_price>
@@ -5393,7 +5393,7 @@
     </offer>
     <offer>
       <article>4627103170902</article>
-      <name>Верхние формы  100шт миндаль</name>
+      <name>Верхние формы  100шт миндаль </name>
       <barcode/>
       <price>1700</price>
       <discount_price>850</discount_price>
@@ -5503,7 +5503,7 @@
     </offer>
     <offer>
       <article>4627177386520</article>
-      <name>Органайзер для багажа Travel бежевый</name>
+      <name>Органайзер для багажа Travel бежевый </name>
       <barcode/>
       <price>5600</price>
       <discount_price>2800</discount_price>
@@ -5953,7 +5953,7 @@
     </offer>
     <offer>
       <article>4627177387404</article>
-      <name>Стакан блендер</name>
+      <name>Стакан блендер </name>
       <barcode/>
       <price>8200</price>
       <discount_price>4100</discount_price>
@@ -6073,7 +6073,7 @@
     </offer>
     <offer>
       <article>4627177388128</article>
-      <name>Экстракт Монарды 30мл</name>
+      <name>Экстракт Монарды 30мл </name>
       <barcode/>
       <price>5500</price>
       <discount_price>2750</discount_price>
@@ -6553,7 +6553,7 @@
     </offer>
     <offer>
       <article>4627177388159</article>
-      <name>Полоски для депиляции 100шт</name>
+      <name>Полоски для депиляции 100шт </name>
       <barcode/>
       <price>1500</price>
       <discount_price>750</discount_price>
@@ -6613,7 +6613,7 @@
     </offer>
     <offer>
       <article>4627177388845</article>
-      <name>Конструктор "Заяц" LS6050</name>
+      <name>Конструктор "Заяц" LS6050 </name>
       <barcode/>
       <price>6000</price>
       <discount_price>3000</discount_price>
@@ -6683,7 +6683,7 @@
     </offer>
     <offer>
       <article>4627177388913</article>
-      <name>Подарочный пакет 3 шт полиэтилен</name>
+      <name>Подарочный пакет 3 шт полиэтилен </name>
       <barcode/>
       <price>2200</price>
       <discount_price>1100</discount_price>
@@ -6693,7 +6693,7 @@
     </offer>
     <offer>
       <article>4627177388920</article>
-      <name>Подарочный пакет 3 шт полиэтилен</name>
+      <name>Подарочный пакет 3 шт полиэтилен </name>
       <barcode/>
       <price>2200</price>
       <discount_price>1100</discount_price>
@@ -6703,7 +6703,7 @@
     </offer>
     <offer>
       <article>4627177388937</article>
-      <name>Подарочный пакет 3 шт полиэтилен</name>
+      <name>Подарочный пакет 3 шт полиэтилен </name>
       <barcode/>
       <price>2200</price>
       <discount_price>1100</discount_price>
@@ -7383,7 +7383,7 @@
     </offer>
     <offer>
       <article>4627181270570</article>
-      <name>Полигель с SHIMMER №01, 15ml</name>
+      <name>Полигель с SHIMMER №01, 15ml </name>
       <barcode/>
       <price>4000</price>
       <discount_price>2000</discount_price>
@@ -7513,7 +7513,7 @@
     </offer>
     <offer>
       <article>2000830709942</article>
-      <name>Гель  для наращивания ногтей Builder Shine №05, 15 мл</name>
+      <name>Гель  для наращивания ногтей Builder Shine №05, 15 мл </name>
       <barcode/>
       <price>5100</price>
       <discount_price>2550</discount_price>
@@ -7843,7 +7843,7 @@
     </offer>
     <offer>
       <article>2000000003962</article>
-      <name>Гелевые наклейки Розовый</name>
+      <name>Гелевые наклейки Розовый </name>
       <barcode/>
       <price>4200</price>
       <discount_price>2100</discount_price>
@@ -8553,7 +8553,7 @@
     </offer>
     <offer>
       <article>2000830713550</article>
-      <name>Плед "Вечерний уют" 200x150 см</name>
+      <name>Плед "Вечерний уют" 200x150 см </name>
       <barcode/>
       <price>35700</price>
       <discount_price>17850</discount_price>
@@ -8583,7 +8583,7 @@
     </offer>
     <offer>
       <article>2000830713529</article>
-      <name>Ручная соковыжималка зеленая</name>
+      <name>Ручная соковыжималка зеленая </name>
       <barcode/>
       <price>3300</price>
       <discount_price>1650</discount_price>
@@ -8683,7 +8683,7 @@
     </offer>
     <offer>
       <article>2000830713123</article>
-      <name>Набор Base AYA 5+1</name>
+      <name>Набор Base AYA 5+1 </name>
       <barcode/>
       <price>31700</price>
       <discount_price>15850</discount_price>
@@ -8933,7 +8933,7 @@
     </offer>
     <offer>
       <article>1000028159864</article>
-      <name>Костюм медицинский 48</name>
+      <name>Костюм медицинский 48 </name>
       <barcode/>
       <price>21400</price>
       <discount_price>10700</discount_price>
@@ -8973,7 +8973,7 @@
     </offer>
     <offer>
       <article>2000000024295</article>
-      <name>Набор Дорожных пакетиков для шампуня</name>
+      <name>Набор Дорожных пакетиков для шампуня </name>
       <barcode/>
       <price>1500</price>
       <discount_price>750</discount_price>
@@ -9003,7 +9003,7 @@
     </offer>
     <offer>
       <article>2000106379589</article>
-      <name>PowerBank 20000mah</name>
+      <name>PowerBank 20000mah </name>
       <barcode/>
       <price>16800</price>
       <discount_price>8400</discount_price>
@@ -9013,7 +9013,7 @@
     </offer>
     <offer>
       <article>2000000020716</article>
-      <name>PowerBank 20000mah</name>
+      <name>PowerBank 20000mah </name>
       <barcode/>
       <price>12800</price>
       <discount_price>6400</discount_price>
@@ -9153,7 +9153,7 @@
     </offer>
     <offer>
       <article>2000106379541</article>
-      <name>Уплотнитель между сиденьем и консолью 1шт</name>
+      <name>Уплотнитель между сиденьем и консолью 1шт </name>
       <barcode/>
       <price>1300</price>
       <discount_price>650</discount_price>
@@ -9499,7 +9499,7 @@
       <discount_price>0</discount_price>
       <discount_start_date/>
       <discount_end_date/>
-      <stock>0</stock>
+      <stock/>
     </offer>
     <offer>
       <article>test3</article>
